@@ -5,7 +5,7 @@ email: qkrgusqja11@naver.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: "/bulma-clean-theme"
-url: "https://www.hyunbum-2.github.io/bulma-clean-theme"
+url: "https://hyunbum-2.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
